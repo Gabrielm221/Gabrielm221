@@ -1,9 +1,18 @@
+# 👋 Olá, eu sou o Gabriel Marcal Pereira Leal  
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (6º período)  
+💻 Desenvolvedor **Full Stack** apaixonado por tecnologia  
+🚀 Sempre aprendendo e buscando evoluir em **backend, frontend e cloud**  
+
+---
+
+## ⚡ Tecnologias e Ferramentas
 
 <div style="display: inline-block; margin-top: 20px;">
   <br>
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
@@ -12,11 +21,14 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img align="right" alt="meugif" src="https://cdn.discordapp.com/attachments/1260016855872049293/1312063632091381841/meugif.gif?ex=674b21fa&is=6749d07a&hm=9bd3f8e4571c9f5ea618499e9275e0c080886603d9e6df7fb85b21f422d65f76&"/>
+  <img align="right" alt="meugif" height="150" src="https://cdn.discordapp.com/attachments/1260016855872049293/1312063632091381841/meugif.gif?ex=674b21fa&is=6749d07a&hm=9bd3f8e4571c9f5ea618499e9275e0c080886603d9e6df7fb85b21f422d65f76&"/>
 </div>
 
+---
+
+## 🌐 Onde me encontrar  
+
 <div>
-  <br>
   <a href="https://www.youtube.com/@gabrielmarcal1391" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabrielmr.7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/PKnAUhrH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -24,9 +36,20 @@
   <a href="https://www.linkedin.com/in/gabriel-marcal-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabrielm221&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Gabrielm221&theme=tokyonight"/>
+</div>
+
+---
+
+## 🐍 Contribuições
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielm221/Gabrielm221/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielm221/Gabrielm221/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielm221/Gabrielm221/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielm221/Gabrielm221/output/github-contribution-grid-snake.svg">
 </picture>
-
