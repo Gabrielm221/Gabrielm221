@@ -1,8 +1,6 @@
-# 👋 Olá, eu sou o Gabriel Marcal Pereira Leal  
-
+# 👋 Olá, eu sou o Gabriel 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (6º período)  
 💻 Desenvolvedor **Full Stack** apaixonado por tecnologia  
-🚀 Sempre aprendendo e buscando evoluir em **backend, frontend e cloud**  
 
 ---
 
@@ -34,15 +32,6 @@
   <a href="https://discord.gg/PKnAUhrH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielmarcaldev1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-marcal-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabrielm221&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Gabrielm221&theme=tokyonight"/>
 </div>
 
 ---
